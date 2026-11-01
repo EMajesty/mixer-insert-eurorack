@@ -10937,7 +10937,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
-		(at 240.03 33.02 0)
+		(at 242.57 33.02 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10962,7 +10962,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal"
-			(at 240.03 33.02 0)
+			(at 242.57 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10971,7 +10971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 33.02 0)
+			(at 242.57 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,7 +10980,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 240.03 33.02 0)
+			(at 242.57 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
